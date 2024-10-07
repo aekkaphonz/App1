@@ -4,5 +4,5 @@ import FormSelect from "./form-select-file";
 import FormSearch from "./form-search";
 
 export default function App() {
-  return <FormSearch/>;
+  return <FormSelect/>;
 }
